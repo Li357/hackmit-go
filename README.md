@@ -1,6 +1,6 @@
-# HackMIT Go Chrome Extension
+# HackMIT Go Extension
 
-A Chrome extension for https://go.hackmit.org/
+A ~~Chrome~~ cross-browser! extension for https://go.hackmit.org/
 
 Just type `go something` in the omnibar...
 
@@ -9,8 +9,7 @@ and stuff, and automatically turns them into clickable links!
 
 Get the extension here: https://chrome.google.com/webstore/detail/aebbebohffjpnifkhjninighbpimlgfl
 
-License
--------
+## License
 
 Copyright (c) 2014-2016 Anish Athalye. Released under the MIT License. See
 [LICENSE.md][license] for details.
